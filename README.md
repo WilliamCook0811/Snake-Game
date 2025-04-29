@@ -16,4 +16,5 @@ Frame speed can be adjusted with the FPS variable
 
 Easily tweak cell and canvas size for different game scales
 
-#Example Usage:
+# Example Usage:
+![]https://github.com/WilliamCook0811/Snake-Game/blob/main/snakeVideo.gif
