@@ -1,7 +1,7 @@
 # Snake-Game
 A simple Snake game built using Python's Tkinter library — created during some downtime for fun and practice.
 
-#Features
+# Features
 Classic snake gameplay
 
 Colorful visuals using a grid system
